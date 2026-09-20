@@ -15,5 +15,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   remote_theme: pages-themes/minimal@v0.2.0
 
-
-
+title: Alessio Cangini
+description: Personal page
